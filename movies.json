@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id":1,
+      "name":"joku leffa",
+      "summary":"joku kuvaus",
+      "trailer": "joka linkki",
+      "image": "joku kuva.jpg"
+    },
+    {
+      "id":2,
+      "name":"joku leffa",
+      "summary":"joku kuvaus",
+      "trailer": "joka linkki",
+      "image": "joku kuva.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "movie_pro",
+  "version": "1.0.0",
+  "description": "movie app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minsk1/movies_pro.git"
+  },
+  "author": "minna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minsk1/movies_pro/issues"
+  },
+  "homepage": "https://github.com/minsk1/movies_pro#readme"
+}
