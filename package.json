@@ -2,8 +2,9 @@
   "name": "movie_pro",
   "version": "1.0.0",
   "description": "movie app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/minsk1/movies_pro/issues"
   },
-  "homepage": "https://github.com/minsk1/movies_pro#readme"
+  "homepage": "https://github.com/minsk1/movies_pro#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.8"
+  }
 }
