@@ -27,9 +27,9 @@ function createColumns(){
 
 function createInfo(movie) {
   var info = '<ul class="list-group">'+
-    '<li class="list-group-flush"><h1>' + movie.name + '</h1></li>'+
-    '<li class="list-group-flush">' + movie.summary + '</li>'+
-    '<li class="list-group-flush"><a href="' + movie.trailer + '">' + movie.trailer + '</a></li>'+
+    '<li class="list-group-flush"><h1>' + movie.name + '</h1></li><br>'+
+    '<li class="list-group-flush">' + movie.summary + '</li><br>'+
+    '<li class="list-group-flush"><iframe width="420" height="315" src="' + movie.trailer + '"></iframe></li>'+
     '</ul>';
     return info;
 }

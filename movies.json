@@ -5,70 +5,70 @@
       "name":"The Shape of Water",
       "summary":"At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
       "trailer": "https://www.youtube.com/watch?v=XFYWazblaUA",
-      "image": "./images/img1.jpg"
+      "image": "img1.jpg"
     },
     {
       "id":2,
       "name":"Three Billboards Outside Ebbing, Missouri",
       "summary":"A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
       "trailer": "https://www.youtube.com/watch?v=XviHNdfuB9Y",
-      "image": "./images/img2.jpg"
+      "image": "img2.jpg"
     },
     {
       "id":3,
       "name":"Thor: Ragnarök",
       "summary":"Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
       "trailer": "https://www.youtube.com/watch?v=ue80QwXMRHg",
-      "image": "./images/img3.jpg"
+      "image": "img3.jpg"
     },
     {
       "id":4,
       "name":"Lady Bird",
       "summary":"In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
       "trailer": "https://www.youtube.com/watch?v=cNi_HC839Wo",
-      "image": "./images/img4.jpg"
+      "image": "img4.jpg"
     },
     {
       "id":5,
       "name":"Call Me by Your Name",
       "summary":"In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant.",
       "trailer": "https://www.youtube.com/watch?v=Z9AYPxH5NTM",
-      "image": "./images/img5.jpg"
+      "image": "img5.jpg"
     },
     {
       "id":6,
       "name":"I, Tonya",
       "summary":"Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.",
       "trailer": "https://www.youtube.com/watch?v=OXZQ5DfSAAc",
-      "image": "./images/img6.jpg"
+      "image": "img6.jpg"
     },
     {
       "id":7,
       "name":"The Greatest Showman",
       "summary":"Celebrates the birth of show business, and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
       "trailer": "https://www.youtube.com/watch?v=AXCTMGYUg9A",
-      "image": "./images/img7.jpg"
+      "image": "img7.jpg"
     },
     {
       "id":8,
       "name":"Coco",
       "summary":"Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
       "trailer": "https://www.youtube.com/watch?v=Ga6RYejo6Hk",
-      "image": "./images/img8.jpg"
+      "image": "img8.jpg"
     },
     {
       "id":9,
       "name":"Justice League",
       "summary":"Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.",
       "trailer": "https://www.youtube.com/watch?v=r9-DM9uBtVI",
-      "image": "./images/img9.jpg"
+      "image": "img9.jpg"
     },
     {
       "id":10,
       "name":"Get Out",
       "summary":"A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
       "trailer": "https://www.youtube.com/watch?v=sRfnevzM9kQ",
-      "image": "./images/img10.jpg"
+      "image": "img10.jpg"
     }
   ]
 }
