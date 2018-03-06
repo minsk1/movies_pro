@@ -3,6 +3,7 @@ html, body {
   background-color: black;
   height: 100%;
   width: 100%;
+    text-align: center;
 }
 
 .page-header {
@@ -15,18 +16,22 @@ html, body {
   text-align: center;
 }
 
-.container-fluid {
-  height: 100%;
+ul {
+  width: 500px;
+    text-align: center;
 }
 
-.col-sm-3 .list-group, .col-sm-2 .list-group {
-  opacity: 0;
-  margin-top: 35%;
+.container-fluid {
+  height: 100%;
+    text-align: center;
 }
+
+
 
 .list-group-flush {
   color: #eaf2ff;
   text-shadow: 2px 2px black;
+  text-align: center;
 }
 
 .list-group {
@@ -34,48 +39,26 @@ html, body {
   opacity: 1;
   transition-delay: 0.7s;
   transition-duration: 1s;
+  text-align: center;
 }
 
-.col-sm-3 .list-group, .col-sm-2 .list-group {
-  transition-delay: 0s;
-}
 
 .row {
   text-align: center;
   height: 100%;
-  transition-duration: 1s;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.col-sm-3, .col-sm-2 {
-  -webkit-backface-visibility: hidden;
-  height: 100% !important;
-  -webkit-transform: translateZ(0) scale(1.0, 1.0);
-  transform: translateZ(0);
-  transition-duration: 1s;
-  -webkit-filter: grayscale(1) blur(5px);
-  filter: grayscale(1) blur(5px);
-}
 
-.col-sm-6 {
+
+.col-sm-12 {
   height: 100% !important;
-  font-smoothing: antialiased !important;
-  -webkit-backface-visibility: hidden;
-  -webkit-transform: translateZ(0) scale(1.0, 1.0);
-  transform: translateZ(0);
   background-repeat: no-repeat;
-  background-size: cover;
-  transition-duration: 1s;
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
+  background-position: center;
+  text-align: center;
 }
 
-.col-sm-2.img, .col-sm-6.img, .col-sm-3.img {
-  position: relative;
-}
-
-.col-sm-3:hover, .col-sm-2:hover {
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
+.text-xs-center {
+  text-align: center;
 }

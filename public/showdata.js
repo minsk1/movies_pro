@@ -14,13 +14,13 @@ function getData() {
 function createColumns(){
   var col = "";
   for (var i = 0; i < movies[0].length; i++){
-    col += "<div class='col-sm-3' id='col" + movies[0][i].id + "'>" +
+    col += "<div class='col-sm-12' id='col" + movies[0][i].id + "'>" +
     createInfo(movies[0][i]) + "</div>";
   }
   $("#row").html(col);
   for (var i = 0; i < movies[0].length; i++){
     console.log(movies[0][i].image);
-    $("#col" + movies[0][i].id).css("backroung-image", "url('./images/img1.jpg')");
+    $("#col" + movies[0][i].id).css("background-image", "url('./images/" + movies[0][i].image + "')");
 
   }
 }
