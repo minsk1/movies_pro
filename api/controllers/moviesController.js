@@ -18,7 +18,7 @@ exports.read_a_movie = function(req, res) {
     }
     for (var i = 0; i < movie[0].movies.length; i++) {
       if(movie[0].movies[i].name.toLowerCase() == req.params.movieName) {
-        res.json(movie[0].movies[i]);
+        res.json(movies[0].movies[i]);
       }
     }
   });
