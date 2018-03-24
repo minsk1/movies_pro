@@ -1,4 +1,4 @@
 # movies_pro
 
-GET /movies /n
+GET /movies 
 GET /movieid
